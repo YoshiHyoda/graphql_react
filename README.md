@@ -1,1 +1,1 @@
-# graphql_react
+# GraphQL w/ React
